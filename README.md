@@ -1,4 +1,7 @@
 # smart-city-Cycle-CarParks
+
+Link to the Shiny App : https://varunsakhare.shinyapps.io/SmartView-CarPark-Bikes/?_ga=2.150553534.948095272.1612910340-648839787.1612910340
+
 The project aims to visualise Christchurch's cycling data in recent years and parking data from seven car parks in Christchurch city centre in 2020, and to study the impact of weather (including temperature, humidity and wind speed) on people's commuting preferences, as well as the impact of weekdays or weekends.
 
 Cycle Dashboard:
