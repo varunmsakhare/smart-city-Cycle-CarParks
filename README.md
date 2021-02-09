@@ -11,7 +11,7 @@ Parking Dashboard:
 The Parking Dashboard shows the location of each car park on the map and the number of observations for that car park for the selected date range and few plots that shows the effect of Weather on the usage of car parks.
 
 Cycle Prediction:
-This tab gives us a prediction of the count of bicycle considering the given input, and gives us a plot to show the comparison with historic data.
+This tab gives a prediction of the count of bicycle considering the given input, and gives a plot to show the comparison with historic data.
 
 Parking Prediction:
-This tab gives us a prediction of the Percentage of Occupied Parking Slots considering the given input, and gives us a plot to show the comparison with historic data.
+This tab gives a prediction of the Percentage of Occupied Parking Slots considering the given input, and gives a plot to show the comparison with historic data.
